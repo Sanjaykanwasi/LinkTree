@@ -132,21 +132,21 @@ export default function ProductPage() {
     {
       name: "Sarah Johnson",
       role: "Content Creator",
-      avatar: "https://via.placeholder.com/60x60/8B5CF6/FFFFFF?text=SJ",
+      avatar: "/ana1.jpg",
       content:
         "This platform has completely transformed how I share my content. My followers can now find everything in one place!",
     },
     {
       name: "Mike Chen",
       role: "Small Business Owner",
-      avatar: "https://via.placeholder.com/60x60/10B981/FFFFFF?text=MC",
+      avatar: "/ana2.jpg",
       content:
         "The analytics help me understand my customers better. I've seen a 40% increase in conversions since switching.",
     },
     {
       name: "Emma Davis",
       role: "Influencer",
-      avatar: "https://via.placeholder.com/60x60/F59E0B/FFFFFF?text=ED",
+      avatar: "/ana3.jpg",
       content:
         "Love the customization options! My link page perfectly matches my brand aesthetic and style.",
     },
